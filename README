@@ -1,0 +1,3 @@
+This is a series of email analysis tools which uses couchdb . I am trying out different mappings (Mappings based on time etc) and hence experimenting with couchdb's B trees .I am using lucene for experimenting with full text indexing and 'jwz threading ' for Threading email conversations together .
+
+The email mbox used is the public Enron data set .
